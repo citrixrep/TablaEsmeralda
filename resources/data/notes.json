@@ -1,0 +1,94 @@
+{
+    "elements": [
+        {
+            "name": "Francio", 
+            "note": "radioactivo y reactivo", 
+            "symbol": "Fr"
+        }, 
+        {
+            "name": "Berilio", 
+            "note": "provoca cáncer", 
+            "symbol": "Be"
+        }, 
+        {
+            "name": "Fluor", 
+            "note": "corrosivo", 
+            "symbol": "F"
+        }, 
+        {
+            "name": "Rubidio", 
+            "note": "Explosivo con H2O, se inflama con el aire", 
+            "symbol": "Rb"
+        }, 
+        {
+            "name": "Arsenico", 
+            "note": "Veneno", 
+            "symbol": "As"
+        }, 
+        {
+            "name": "Polonio", 
+            "note": "Veneno", 
+            "symbol": "Po"
+        }, 
+        {
+            "name": "Mercurio", 
+            "note": "daños en el cerebro", 
+            "symbol": "Hg"
+        }, 
+        {
+            "name": "Radon", 
+            "note": "Veneno", 
+            "symbol": "Rn"
+        }, 
+        {
+            "name": "Helium", 
+            "note": "Peligro", 
+            "symbol": "Fe"
+        }, 
+        {
+            "name": "Helium", 
+            "note": "Peligro", 
+            "symbol": "Fe"
+        }, 
+        {
+            "name": "Helium", 
+            "note": "Peligro", 
+            "symbol": "Fe"
+        }, 
+        {
+            "name": "Helium", 
+            "note": "Peligro", 
+            "symbol": "Fe"
+        }, 
+        {
+            "name": "Helium", 
+            "note": "Peligro", 
+            "symbol": "Fe"
+        }, 
+        {
+            "name": "Helium", 
+            "note": "Peligro", 
+            "symbol": "Fe"
+        }, 
+        {
+            "name": "Helium", 
+            "note": "Peligro", 
+            "symbol": "Fe"
+        }, 
+        {
+            "name": "Helium", 
+            "note": "Peligro", 
+            "symbol": "Fe"
+        }, 
+        {
+            "name": "Helium", 
+            "note": "Peligro", 
+            "symbol": "Fe"
+        }, 
+        {
+            "name": "Helium", 
+            "note": "Peligro", 
+            "symbol": "Fe"
+        }
+    ]
+}
